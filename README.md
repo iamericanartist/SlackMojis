@@ -101,6 +101,5 @@ Make a pull request and add some to the list!
 
 ***
 
-Homage to the [Parrot](http://cultofthepartyparrot.com/)
+Homage to the [Parrot](http://cultofthepartyparrot.com/)  
 Lots of these came from [Slackmojis](https://slackmojis.com/)
-
