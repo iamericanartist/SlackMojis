@@ -4,6 +4,8 @@ A little place to come together and share the emoji you love.
 
 Make a pull request and add some to the list!
 
+(ANIMATED ONES ARE WAAAAAY MORE FUN)
+
 ***
 
 <p align="center">
