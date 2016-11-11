@@ -6,7 +6,6 @@ Make a pull request and add some to the list!
 
 (ANIMATED ONES ARE WAAAAAY MORE FUN)
 
-***
 
 <p align="center">
 <h4>Emoji!</h4><hr/>
