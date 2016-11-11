@@ -62,7 +62,7 @@ Make a pull request and add some to the list!
   <img src="/Emojis/zoidberg.png" width="80" alt="zoidberg"/>
 </p>
 
-<br/><hr/><br/>
+<br/><hr/>
 
 <p align="center">
 <h4>Parrots!</h4><hr/>
