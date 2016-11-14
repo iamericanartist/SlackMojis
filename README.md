@@ -67,7 +67,6 @@ Make a pull request and add some to the list!
 <p align="center">
 <h4>Parrots!</h4><hr/>
   <img src="/Emojis/aussiecongaparrot.gif" height="80" alt="aussiecongaparrot"/> 
-  <img src="/Emojis/aussiecongaparrot.gif" height="80" alt="aussiecongaparrot"/> 
   <img src="/Emojis/aussieparrot.gif" height="80" alt="aussieparrot"/> 
   <img src="/Emojis/aussiereversecongaparrot.gif" height="80" alt="aussiereversecongaparrot"/> 
   <img src="/Emojis/boredparrot.gif" height="80" alt="boredparrot"/> 
