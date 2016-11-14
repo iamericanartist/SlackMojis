@@ -8,7 +8,7 @@ Make a pull request and add some to the list!
 
 
 <p align="center">
-<h4>Emoji!</h4><hr/>
+<h4>Emoji!</h4>
   <img src="/Emojis/14.png" height="80" alt="14"/>
   <img src="/Emojis/awkwardSeal.jpg" height="80" alt="awkwardSeal"/> 
   <img src="/Emojis/badger.gif" height="80" alt="badger"/> 
@@ -65,7 +65,7 @@ Make a pull request and add some to the list!
 <br/><hr/>
 
 <p align="center">
-<h4>Parrots!</h4><hr/>
+<h4>Parrots!</h4>
   <img src="/Emojis/aussiecongaparrot.gif" height="80" alt="aussiecongaparrot"/> 
   <img src="/Emojis/aussieparrot.gif" height="80" alt="aussieparrot"/> 
   <img src="/Emojis/aussiereversecongaparrot.gif" height="80" alt="aussiereversecongaparrot"/> 
