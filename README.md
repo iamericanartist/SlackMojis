@@ -4,7 +4,7 @@ A little place to come together and share the emoji we love.
 
 <p align="center">
 <h4>Emoji!</h4>
-  <img src="/Emojis/14.png" height="80" alt="14"/> 
+  <img src="/Emojis/14.png" height="80" alt="Cohort14"/> 
   <img src="/Emojis/awesome.gif" height="80" alt="awesome"/> 
   <img src="/Emojis/awkwardSeal.jpg" height="80" alt="awkwardSeal"/> 
   <img src="/Emojis/badger.gif" height="80" alt="badger"/> 
