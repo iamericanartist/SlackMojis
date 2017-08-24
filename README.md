@@ -12,7 +12,8 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/bang.gif" height="80" alt="bang"/> 
   <img src="/Emojis/beachball.gif" height="80" alt="beachball"/> 
   <img src="/Emojis/beavisNbutthead.gif" height="80" alt="beavisNbutthead"/> 
-  <img src="/Emojis/bees.gif" height="80" alt="bees"/> 
+  <img src="/Emojis/bees.gif" height="80" alt="bees"/>   
+  <img src="/Emojis/bro.png" height="80" alt="bro"/>
   <img src="/Emojis/carltonDance.gif" height="80" alt="carltonDance"/> 
   <img src="/Emojis/cattype.gif" height="80" alt="cattype"/> 
   <img src="/Emojis/celebrate.gif" height="80" alt="celebrate"/> 
@@ -58,6 +59,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/tobiasCry.gif" height="80" alt="tobiasCry"/> 
   <img src="/Emojis/troll.png" height="80" alt="troll"/> 
   <img src="/Emojis/tumbleweed.gif" height="80" alt="tumbleweed"/> 
+  <img src="/Emojis/uhh.gif" height="80" alt="uhh"/> 
   <img src="/Emojis/vaultboy.png" height="80" alt="vaultboy"/> 
   <img src="/Emojis/wat.png" height="80" alt="wat"/> 
   <img src="/Emojis/whoa.jpg" height="80" alt="whoa"/> 
