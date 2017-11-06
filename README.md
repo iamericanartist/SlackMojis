@@ -45,7 +45,8 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/notSure.jpg" height="80" alt="notSure"/> 
   <img src="/Emojis/nss.png" height="80" alt="nss"/> 
   <img src="/Emojis/nyanCat.gif" height="80" alt="nyanCat"/> 
-  <img src="/Emojis/poopstar.png" height="80" alt="poopstar"/> 
+  <img src="/Emojis/poopstar.png" height="80" alt="poopstar"/>
+  <img src="/Emojis/forever-cat-pong.gif" height="80" alt="pong"/>
   <img src="/Emojis/question.gif" height="80" alt="question"/> 
   <img src="/Emojis/rebel.png" height="80" alt="rebel"/> 
   <img src="/Emojis/rick.jpg" height="80" alt="rick"/> 
