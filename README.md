@@ -35,10 +35,13 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/empire.png" height="70"           alt="empire"/> 
   <img src="/Emojis/eww.jpg" height="70"              alt="eww"/> 
   <img src="/Emojis/firefox.png" height="70"          alt="firefox"/> 
+  <img src="/Emojis/git.png" height="70"              alt="git"/> 
   <img src="/Emojis/hammerTime.gif" height="70"       alt="hammerTime"/> 
   <img src="/Emojis/homerDisappear.gif" height="70"   alt="homerDisappear"/> 
+  <img src="/Emojis/homerwoo.png" height="70"   alt="homerwoo"/> 
   <img src="/Emojis/iSeeWhatYouDidThere.png" height="70" alt="iSeeWhatYouDidThere"/> 
   <img src="/Emojis/jordanCry.png" height="70"        alt="jordanCry"/> 
+  <img src="/Emojis/js.png" height="70"               alt="js"/> 
   <img src="/Emojis/koolAid.png" height="70"          alt="koolAid"/> 
   <img src="/Emojis/leftShark.gif" height="70"        alt="leftShark"/> 
   <img src="/Emojis/matrix.gif" height="70"           alt="matrix"/> 
