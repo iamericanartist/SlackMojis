@@ -70,6 +70,13 @@ A little place to come together and share the emoji we love.
 
 <p align="center">
 <h4>Parrots!</h4>
+  <img src="/Emojis/parrotwave1.gif" height="80" alt="parrotwave1"/> 
+  <img src="/Emojis/parrotwave2.gif" height="80" alt="parrotwave2"/> 
+  <img src="/Emojis/parrotwave3.gif" height="80" alt="parrotwave3"/> 
+  <img src="/Emojis/parrotwave4.gif" height="80" alt="parrotwave4"/> 
+  <img src="/Emojis/parrotwave5.gif" height="80" alt="parrotwave5"/> 
+  <img src="/Emojis/parrotwave6.gif" height="80" alt="parrotwave6"/> 
+  <img src="/Emojis/parrotwave7.gif" height="80" alt="parrotwave7"/> 
   <img src="/Emojis/aussiecongaparrot.gif" height="80" alt="aussiecongaparrot"/> 
   <img src="/Emojis/aussieparrot.gif" height="80" alt="aussieparrot"/> 
   <img src="/Emojis/aussiereversecongaparrot.gif" height="80" alt="aussiereversecongaparrot"/> 
@@ -93,13 +100,6 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/parrot.gif" height="80" alt="parrot"/> 
   <img src="/Emojis/parrotcop.gif" height="80" alt="parrotcop"/> 
   <img src="/Emojis/parrotdad.gif" height="80" alt="parrotdad"/> 
-  <img src="/Emojis/parrotwave1.gif" height="80" alt="parrotwave1"/> 
-  <img src="/Emojis/parrotwave2.gif" height="80" alt="parrotwave2"/> 
-  <img src="/Emojis/parrotwave3.gif" height="80" alt="parrotwave3"/> 
-  <img src="/Emojis/parrotwave4.gif" height="80" alt="parrotwave4"/> 
-  <img src="/Emojis/parrotwave5.gif" height="80" alt="parrotwave5"/> 
-  <img src="/Emojis/parrotwave6.gif" height="80" alt="parrotwave6"/> 
-  <img src="/Emojis/parrotwave7.gif" height="80" alt="parrotwave7"/> 
   <img src="/Emojis/partyparrot.gif" height="80" alt="partyparrot"/> 
   <img src="/Emojis/pizzaparrot.gif" height="80" alt="pizzaparrot"/> 
   <img src="/Emojis/reversecongaparrot.gif" height="80" alt="reversecongaparrot"/> 
