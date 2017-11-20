@@ -38,7 +38,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/git.png" height="70"              alt="git"/> 
   <img src="/Emojis/hammerTime.gif" height="70"       alt="hammerTime"/> 
   <img src="/Emojis/homerDisappear.gif" height="70"   alt="homerDisappear"/> 
-  <img src="/Emojis/homerwoo.png" height="70"   alt="homerwoo"/> 
+  <img src="/Emojis/homerwoo.png" height="70"         alt="homerwoo"/> 
   <img src="/Emojis/iSeeWhatYouDidThere.png" height="70" alt="iSeeWhatYouDidThere"/> 
   <img src="/Emojis/jordanCry.png" height="70"        alt="jordanCry"/> 
   <img src="/Emojis/js.png" height="70"               alt="js"/> 
@@ -62,15 +62,19 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/showMeWhatYouGot.png" height="70" alt="showMeWhatYouGot"/> 
   <img src="/Emojis/skiski.JPG" height="70"           alt="skiski"/> 
   <img src="/Emojis/successKid.png" height="70"       alt="successKid"/> 
+  <img src="/Emojis/superman.png" height="70"         alt="superman"/> 
   <img src="/Emojis/swann.gif" height="70"            alt="swann"/> 
   <img src="/Emojis/takeMyMoney.png" height="70"      alt="takeMyMoney"/> 
+  <img src="/Emojis/thisisfine.png" height="70"       alt="thisisfine"/> 
   <img src="/Emojis/thumbsup.gif" height="70"         alt="thumbsup"/> 
   <img src="/Emojis/tobiasCry.gif" height="70"        alt="tobiasCry"/> 
   <img src="/Emojis/troll.png" height="70"            alt="troll"/> 
   <img src="/Emojis/tumbleweed.gif" height="70"       alt="tumbleweed"/> 
   <img src="/Emojis/uhhh.gif" height="70"             alt="uhh"/> 
   <img src="/Emojis/vaultboy.png" height="70"         alt="vaultboy"/> 
+  <img src="/Emojis/warning.png" height="70"          alt="warning"/> 
   <img src="/Emojis/wat.png" height="70"              alt="wat"/> 
+  <img src="/Emojis/waze.png" height="70"              alt="waze"/> 
   <img src="/Emojis/whoa.jpg" height="70"             alt="whoa"/> 
   <img src="/Emojis/winkwink.gif" height="70"         alt="winkwink"/> 
   <img src="/Emojis/woo.gif" height="70"              alt="woo"/> 
