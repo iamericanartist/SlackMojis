@@ -74,7 +74,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/vaultboy.png" height="70"         alt="vaultboy"/> 
   <img src="/Emojis/warning.png" height="70"          alt="warning"/> 
   <img src="/Emojis/wat.png" height="70"              alt="wat"/> 
-  <img src="/Emojis/waze.png" height="70"              alt="waze"/> 
+  <img src="/Emojis/waze.png" height="70"             alt="waze"/> 
   <img src="/Emojis/whoa.jpg" height="70"             alt="whoa"/> 
   <img src="/Emojis/winkwink.gif" height="70"         alt="winkwink"/> 
   <img src="/Emojis/woo.gif" height="70"              alt="woo"/> 
