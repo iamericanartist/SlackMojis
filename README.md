@@ -34,6 +34,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/doritos.png" height="70"          alt="doritos"/> 
   <img src="/Emojis/empire.png" height="70"           alt="empire"/> 
   <img src="/Emojis/eww.jpg" height="70"              alt="eww"/> 
+  <img src="/Emojis/facepalm.png" height="70"         alt="facepalm"/> 
   <img src="/Emojis/firefox.png" height="70"          alt="firefox"/> 
   <img src="/Emojis/git.png" height="70"              alt="git"/> 
   <img src="/Emojis/hammerTime.gif" height="70"       alt="hammerTime"/> 
