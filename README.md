@@ -5,6 +5,7 @@ A little place to come together and share the emoji we love.
 <h4>Emoji!</h4>
 <p align="center">
   <img src="/Emojis/14.png" height="70"               alt="Cohort14" style/> 
+  <img src="/Emojis/all_the_things.jpg" height="70"   alt="all_the_things"/> 
   <img src="/Emojis/amaze.gif" height="70"            alt="amaze"/> 
   <img src="/Emojis/awesome.gif" height="70"          alt="awesome"/> 
   <img src="/Emojis/awkwardSeal.jpg" height="70"      alt="awkwardSeal"/> 
