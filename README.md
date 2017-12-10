@@ -71,6 +71,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/thumbsup.gif" height="70"         alt="thumbsup"/> 
   <img src="/Emojis/tobiasCry.gif" height="70"        alt="tobiasCry"/> 
   <img src="/Emojis/troll.png" height="70"            alt="troll"/> 
+  <img src="/Emojis/trollmoji.png" height="70"        alt="trollmoji"/>
   <img src="/Emojis/tumbleweed.gif" height="70"       alt="tumbleweed"/> 
   <img src="/Emojis/uhhh.gif" height="70"             alt="uhh"/> 
   <img src="/Emojis/vaultboy.png" height="70"         alt="vaultboy"/> 
