@@ -6,6 +6,7 @@ A little place to come together and share the emoji we love.
 <p align="center">
   <img src="/Emojis/14.png" height="70"               alt="Cohort14" style/> 
   <img src="/Emojis/all_the_things.jpg" height="70"   alt="all_the_things"/> 
+  <img src="/Emojis/altoid.png" height="70"           alt="altoid"/> 
   <img src="/Emojis/amaze.gif" height="70"            alt="amaze"/> 
   <img src="/Emojis/awesome.gif" height="70"          alt="awesome"/> 
   <img src="/Emojis/awkwardSeal.jpg" height="70"      alt="awkwardSeal"/> 
@@ -26,6 +27,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/cray.gif" height="70"             alt="cray"/> 
   <img src="/Emojis/cricket.gif" height="70"          alt="cricket"/> 
   <img src="/Emojis/dadJoke.jpg" height="70"          alt="dadJoke"/> 
+  <img src="/Emojis/DATA.gif" height="70"             alt="DATA"/> 
   <img src="/Emojis/datboi.gif" height="70"           alt="datboi"/> 
   <img src="/Emojis/dawg.gif" height="70"             alt="dawg"/> 
   <img src="/Emojis/dawsoncry.gif" height="70"        alt="dawsoncry"/> 
@@ -47,6 +49,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/koolAid.png" height="70"          alt="koolAid"/> 
   <img src="/Emojis/leftShark.gif" height="70"        alt="leftShark"/> 
   <img src="/Emojis/matrix.gif" height="70"           alt="matrix"/> 
+  <img src="/Emojis/mickeywalk.gif" height="70"       alt="mickeywalk"/> 
   <img src="/Emojis/morecowbellplz.gif" height="70"   alt="morecowbellplz"/> 
   <img src="/Emojis/morty.gif" height="70"            alt="morty"/> 
   <img src="/Emojis/noice.gif" height="70"            alt="noice"/> 
@@ -81,6 +84,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/whoa.jpg" height="70"             alt="whoa"/> 
   <img src="/Emojis/winkwink.gif" height="70"         alt="winkwink"/> 
   <img src="/Emojis/woo.gif" height="70"              alt="woo"/> 
+  <img src="/Emojis/wrong.gif" height="70"            alt="wrong"/> 
   <img src="/Emojis/zoidberg.png" height="70"         alt="zoidberg"/> 
 </p>
 
