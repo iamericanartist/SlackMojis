@@ -40,6 +40,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/facepalm.png" height="70"         alt="facepalm"/> 
   <img src="/Emojis/firefox.png" height="70"          alt="firefox"/> 
   <img src="/Emojis/git.png" height="70"              alt="git"/> 
+  <img src="/Emojis/git-xp.png" height="70"           alt="gitxp"/> 
   <img src="/Emojis/hammerTime.gif" height="70"       alt="hammerTime"/> 
   <img src="/Emojis/homerDisappear.gif" height="70"   alt="homerDisappear"/> 
   <img src="/Emojis/homerwoo.png" height="70"         alt="homerwoo"/> 
