@@ -9,7 +9,8 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/altoid.png" height="70"           alt="altoid"/> 
   <img src="/Emojis/amaze.gif" height="70"            alt="amaze"/> 
   <img src="/Emojis/awesome.gif" height="70"          alt="awesome"/> 
-  <img src="/Emojis/awkwardSeal.jpg" height="70"      alt="awkwardSeal"/> 
+  <img src="/Emojis/awkwardSeal.jpg" height="70"      alt="awkwardSeal"/>
+  <img src="/Emojis/ayyye.gif" height="70"            alt="ayyye"/> 
   <img src="/Emojis/badger.gif" height="70"           alt="badger"/> 
   <img src="/Emojis/bananaDance.gif" height="70"      alt="bananaDance"/> 
   <img src="/Emojis/bang.gif" height="70"             alt="bang"/> 
@@ -44,7 +45,8 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/hammerTime.gif" height="70"       alt="hammerTime"/> 
   <img src="/Emojis/homerDisappear.gif" height="70"   alt="homerDisappear"/> 
   <img src="/Emojis/homerwoo.png" height="70"         alt="homerwoo"/> 
-  <img src="/Emojis/iSeeWhatYouDidThere.png" height="70" alt="iSeeWhatYouDidThere"/> 
+  <img src="/Emojis/iSeeWhatYouDidThere.png" height="70" alt="iSeeWhatYouDidThere"/>
+  <img src="/Emojis/it_is_wed_sml.gif" height="70"    alt="itiswed"/>
   <img src="/Emojis/jordanCry.png" height="70"        alt="jordanCry"/> 
   <img src="/Emojis/js.png" height="70"               alt="js"/> 
   <img src="/Emojis/koolAid.png" height="70"          alt="koolAid"/> 
@@ -59,6 +61,8 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/notSure.jpg" height="70"          alt="notSure"/> 
   <img src="/Emojis/nss.png" height="70"              alt="nss"/> 
   <img src="/Emojis/nyanCat.gif" height="70"          alt="nyanCat"/> 
+  <img src="/Emojis/pedro.gif" height="70"            alt="pedro"/>
+  <img src="/Emojis/pong.png" height="70"             alt="pong"/>
   <img src="/Emojis/poopstar.png" height="70"         alt="poopstar"/>
   <img src="/Emojis/forever-cat-pong.gif" height="70" alt="pong"/>
   <img src="/Emojis/question.gif" height="70"         alt="question"/> 
@@ -70,6 +74,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/successKid.png" height="70"       alt="successKid"/> 
   <img src="/Emojis/superman.png" height="70"         alt="superman"/> 
   <img src="/Emojis/swann.gif" height="70"            alt="swann"/> 
+  <img src="/Emojis/tacodeal.gif" height="70"         alt="tacodeal"/> 
   <img src="/Emojis/takeMyMoney.png" height="70"      alt="takeMyMoney"/> 
   <img src="/Emojis/thisisfine.png" height="70"       alt="thisisfine"/> 
   <img src="/Emojis/thumbsup.gif" height="70"         alt="thumbsup"/> 
