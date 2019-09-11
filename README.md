@@ -3,11 +3,12 @@
 A little place to come together and share the emoji we love.
 
 <h4>Emoji!</h4>
-<p align="center">
-  <img src="/Emojis/14.png" height="70"               alt="Cohort14" style/> 
+<p align="center">  
+  <img src="/Emojis/14.png" height="70"               alt="Cohort14"/> 
   <img src="/Emojis/all_the_things.jpg" height="70"   alt="all_the_things"/> 
-  <img src="/Emojis/altoid.png" height="70"           alt="altoid"/> 
+  <img src="/Emojis/altoid.png" height="70"           alt="altoid"/>
   <img src="/Emojis/amaze.gif" height="70"            alt="amaze"/> 
+  <img src="/Emojis/apple1983.png" height="70"        alt="Apple83"/> 
   <img src="/Emojis/awesome.gif" height="70"          alt="awesome"/> 
   <img src="/Emojis/awkwardSeal.jpg" height="70"      alt="awkwardSeal"/>
   <img src="/Emojis/ayyye.gif" height="70"            alt="ayyye"/> 
@@ -45,6 +46,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/hammerTime.gif" height="70"       alt="hammerTime"/> 
   <img src="/Emojis/homerDisappear.gif" height="70"   alt="homerDisappear"/> 
   <img src="/Emojis/homerwoo.png" height="70"         alt="homerwoo"/> 
+  <img src="/Emojis/ie.png" height="70"               alt="ie"/> 
   <img src="/Emojis/iSeeWhatYouDidThere.png" height="70" alt="iSeeWhatYouDidThere"/>
   <img src="/Emojis/it_is_wed_sml.gif" height="70"    alt="itiswed"/>
   <img src="/Emojis/jordanCry.png" height="70"        alt="jordanCry"/> 
@@ -76,6 +78,7 @@ A little place to come together and share the emoji we love.
   <img src="/Emojis/swann.gif" height="70"            alt="swann"/> 
   <img src="/Emojis/tacodeal.gif" height="70"         alt="tacodeal"/> 
   <img src="/Emojis/takeMyMoney.png" height="70"      alt="takeMyMoney"/> 
+  <img src="/Emojis/theonion.png" height="70"         alt="theonion"/> 
   <img src="/Emojis/thisisfine.png" height="70"       alt="thisisfine"/> 
   <img src="/Emojis/thumbsup.gif" height="70"         alt="thumbsup"/> 
   <img src="/Emojis/tobiasCry.gif" height="70"        alt="tobiasCry"/> 
